@@ -1,2 +1,2 @@
 # Bluetooth-Controlled-Car
-Working on a little car i can control with bluetooth
+Working on a little car with bluetooth control.
