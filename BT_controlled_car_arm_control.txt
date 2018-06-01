@@ -1,0 +1,24 @@
+Arm Controll:
+
+- When pushing left, go left until stop is pushed, with rotation of 1 degree per 250ms. (min: 0, max: 180)
+- When pushing right, go right until stop is pushed, with rotation of 1 degree per 250ms. (min: 0, max: 180)
+- When pushing up, go up until stop is pushed, with rotation of 1 degree per 250ms. (min: 0, max:180)
+- When pushing down, go down until stop is pushed, with rotation of 1 degree per 250ms. (min: 0, max:180)
+
+- When pushing claw-open, open until stop is pushed, with rotation of 1 degree per 500ms. (min: 0, max:180)
+- When pushing claw-close, close until stop is pushed, with rotation of 1 degree per 500ms. (min: 0, max:180)
+
+
+Make it go until 180degrees or 0 degrees with a FOR-loop.
+
+if(data == 'l')
+{
+}
+
+
+if(data == 's')
+{
+break;
+}
+
+}
